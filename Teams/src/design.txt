@@ -1,0 +1,13 @@
+Design.txt
+Hayley, Oliver, Sinny, Carlos
+
+Create classes
+-Team (each team has a name, coach, a number of players and a list of players)
+-Coaches (has a name)
+-Players (Each player has a name, positions they can play, height, and birth place)
+-Positions (has a string)
+
+Use a Scanner to read in the teams.txt file
+Go through each bit of data and create new objects of the classes
+Add each object to an array of that class
+Use those arrays and classes to fulfil the methods needed for each user type (office/media/etc.)

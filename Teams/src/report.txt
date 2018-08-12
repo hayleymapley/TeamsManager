@@ -1,0 +1,29 @@
+Report.txt
+
+For this project I made a Team class, a TeamMember interface which the Coach
+class and the Player class implement. In addition I made a Position class 
+which feeds into Positions arrays which the Player class uses in its field. I
+used arrays so that it would be easier to deal with players that played more
+than one position.
+
+The program will allow office staff to list all teams, as well as list each team's
+coach below the team. It will allow media organisations to get a list of players
+in a team with their biographical information, as well as a list of players on 
+that team that play specific positions. It will allow managers to find players
+on all teams within a specified height range.
+
+The methods that I implemented in this project were the same and in the same
+order as those given. I didn't haven't much time to do anything special because
+I struggled with setting up the file to read in and store the various bits of
+info due to input mismatch errors. I now feel confident that I can handle 
+those when they inevitably come up again in the future!
+
+The ListPositionPlayersOnTeam was quite difficult, perhaps because of how I
+implemented it, but it works (I think)! Due to using a Positions class
+and accompanying array lists (which I thought would make things easier), I 
+had to iterate through lots of arrays to get what I needed.
+
+Spent a while at the end trying to make the graph work, didn't get there in the end.
+I wanted to ask if the user wanted to see heights by team or by position, add the heights
+of the given team or the given position to an array and then access the array and print
+a bar graph.
